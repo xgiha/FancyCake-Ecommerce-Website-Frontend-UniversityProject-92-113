@@ -22,7 +22,7 @@ Getting started with Fancy Cake is a piece of cake! Simply clone this repository
 
 ## Installation 
 1. Open the terminal
-2. Clone the repository https://github.com/rashmijayasekara/minigame
+2. Clone the repository
 3. cd FancyCake
 4. open index.html
 
@@ -33,5 +33,5 @@ Licensed under MIT
 v1.0.0
 
 # Contact 
-Contact https://www.linkedin.com/in/xgiha/
+Contact https://www.linkedin.com/in/xgiha
 Repository 
