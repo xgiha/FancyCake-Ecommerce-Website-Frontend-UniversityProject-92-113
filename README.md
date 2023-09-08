@@ -33,5 +33,5 @@ Licensed under [MIT](https://github.com/xgiha/FancyCake-Ecommerce-Website-Fronte
 v1.0.0
 
 # Contact 
-Contact https://www.linkedin.com/in/xgiha
-Repository https://github.com/xgiha/FancyCake-Ecommerce-Website-Frontend-UniversityProject-92-113
+LinkedIn https://www.linkedin.com/in/xgiha  
+GitHub https://github.com/xgiha
