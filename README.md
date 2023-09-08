@@ -1,6 +1,6 @@
 # About the Project
 # Fancy Cake - E-commerce Frontend Website
-This is a Frontend Ecommerce Website that has been built with HTML, CSS, and JavaScript. Website fully optimized for responsive design.
+This is a front-end e-commerce website that has been built with HTML, CSS, and JavaScript. Website fully optimized for responsive design.
 
 # Build With
 * HTML
@@ -8,7 +8,7 @@ This is a Frontend Ecommerce Website that has been built with HTML, CSS, and Jav
 * JavaScript
 
 # Overview
-Fancy Cake represents the pinnacle of web development artistry. I poured my creativity and technical prowess into every line of code, every pixel, to bring the website that seamlessly blends aesthetics and functionality.
+Fancy Cake represents the pinnacle of web development artistry. I poured my creativity and technical prowess into every line of code, every pixel, to bring a website that seamlessly blends aesthetics and functionality.
 
 # Features
 * Eye-catching Design: Prepare to be captivated by visually stunning design and animations. Every aspect of the website is carefully thought out to provide an elegant and immersive user experience.
@@ -22,16 +22,16 @@ Getting started with Fancy Cake is a piece of cake! Simply clone this repository
 
 ## Installation 
 1. Open the terminal
-2. Clone the repository
+2. Clone the repository https://github.com/xgiha/FancyCake-Ecommerce-Website-Frontend-UniversityProject-92-113
 3. cd FancyCake
 4. open index.html
 
 # License
-Licensed under MIT
+Licensed under [MIT](https://github.com/xgiha/FancyCake-Ecommerce-Website-Frontend-UniversityProject-92-113/blob/master/LICENSE)
 
 # Version
 v1.0.0
 
 # Contact 
 Contact https://www.linkedin.com/in/xgiha
-Repository 
+Repository https://github.com/xgiha/FancyCake-Ecommerce-Website-Frontend-UniversityProject-92-113
