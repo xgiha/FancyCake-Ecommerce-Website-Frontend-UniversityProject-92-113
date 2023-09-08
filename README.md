@@ -1,6 +1,10 @@
 # About the Project
-# Fancy Cake - E-commerce Frontend Website
+# Fanny's Cake - E-commerce Frontend Website
 This is a front-end e-commerce website that I built for a university project. I decided to commit it to GitHub in case someone finds it helpful.
+![Web capture_8-9-2023_93328_](https://github.com/xgiha/FancyCake-Ecommerce-Website-Frontend-UniversityProject-92-113/assets/57855631/3f0bdd0a-687f-41df-ae38-ba6f10b60eb3)
+![Web capture_8-9-2023_93359_](https://github.com/xgiha/FancyCake-Ecommerce-Website-Frontend-UniversityProject-92-113/assets/57855631/9ddf2eeb-579b-494a-9abc-ba3030e61a9d)
+![Screenshot (876)](https://github.com/xgiha/FancyCake-Ecommerce-Website-Frontend-UniversityProject-92-113/assets/57855631/b9f17cb7-d901-4622-b204-91966685daaa)
+![Recording 2023-09-08 095124 (1)](https://github.com/xgiha/FancyCake-Ecommerce-Website-Frontend-UniversityProject-92-113/assets/57855631/b122d425-e19a-41f6-ab74-09c659e10385)
 
 # Build With
 * HTML
