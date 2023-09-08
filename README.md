@@ -1,6 +1,6 @@
 # About the Project
 # Fancy Cake - E-commerce Frontend Website
-This is a front-end e-commerce website that has been built with HTML, CSS, and JavaScript. Website fully optimized for responsive design.
+This is a front-end e-commerce website that I built for a university project. I decided to commit it to GitHub in case someone finds it helpful.
 
 # Build With
 * HTML
@@ -8,10 +8,10 @@ This is a front-end e-commerce website that has been built with HTML, CSS, and J
 * JavaScript
 
 # Overview
-Fancy Cake represents the pinnacle of web development artistry. I poured my creativity and technical prowess into every line of code, every pixel, to bring a website that seamlessly blends aesthetics and functionality.
+Fancy Cake represents the minimalism of web development artistry. I poured my creativity, minimalistic art style, and technical prowess into every line of code, every pixel, to bring a website that seamlessly blends aesthetics and functionality. And I did my best to implement the whole website fully optimized for responsive design.
 
 # Features
-* Eye-catching Design: Prepare to be captivated by visually stunning design and animations. Every aspect of the website is carefully thought out to provide an elegant and immersive user experience.
+* Eye-catching Design: Prepare to be captivated by visually stunning design and animations to the smallest details. Every aspect of the website is carefully thought out to provide an elegant and immersive user experience.
 
 * Responsive Design: Whether you're browsing on a desktop, tablet, or smartphone, Fancy Cake adapts gracefully to your device, ensuring a delightful shopping experience anywhere, anytime.
 
