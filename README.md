@@ -27,7 +27,7 @@ Getting started with Fancy Cake is a piece of cake! Simply clone this repository
 4. open index.html
 
 # License
-Licensed under [MIT](https://github.com/xgiha/FancyCake-Ecommerce-Website-Frontend-UniversityProject-92-113/blob/master/LICENSE)
+Licensed under [MIT](https://github.com/xgiha/FancyCake-Ecommerce-Website-Frontend-UniversityProject-92-113/blob/master/LICENSE.txt)
 
 # Version
 v1.0.0
